@@ -1,0 +1,13 @@
+select,
+option {
+    cursor: pointer;
+}
+
+#adminpanel {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+input {
+    height: 25px;
+}
